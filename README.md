@@ -18,14 +18,10 @@ The company's design specifications dictate that the variance of the suspension 
 
  ![](ss/ttest.PNG)
 
-then briefly summarize your interpretation and findings for the t-test results.
+The lots as a whole are not statistically significant as the p-value is not significant. Lots 1 and 2 follow suit as their p-values are above .05 but Lot 3, has a p-value that is significant as the p-value is very low at .042.
 
 ## Study Design: MechaCar vs Competition
 
-Write a short description of a statistical study that can quantify how the MechaCar performs against the competition. In your study design, think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating. 
+think critically about what metrics would be of interest to a consumer: for a few examples, cost, city or highway fuel efficiency, horse power, maintenance cost, or safety rating. 
 
-
-    What metric or metrics are you going to test?
-    What is the null hypothesis or alternative hypothesis?
-    What statistical test would you use to test the hypothesis? And why?
-    What data is needed to run the statistical test?
+My study will measure cost against fuel efficiency, maintainance cost and veicle weight. The hypothesis will be specifically looking to see if there is any correlation between the model and the intecept so I will be using a linear model. To run this test I would need the data from various car models of the company to compare and constrast them to find which variables directly affect cost and how that in turn affects the final sales.
